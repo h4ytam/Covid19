@@ -1,0 +1,18 @@
+.container {
+  margin: 50px 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.card {
+  margin: 0 2% !important;
+}
+.infected {
+  background-color: #8080ff !important;
+}
+.recovered {
+  background-color: #80ff80 !important;
+}
+.deaths {
+  background-color: #ff8080 !important;
+}
